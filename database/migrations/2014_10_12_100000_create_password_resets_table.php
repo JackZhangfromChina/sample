@@ -7,9 +7,9 @@ use Illuminate\Database\Migrations\Migration;
 class CreatePasswordResetsTable extends Migration
 {
     /**
-     * Run the migrations.
-     *
-     * @return void
+     * Notes:
+     * User: Jack
+     * DateTime: 2018/7/22 10:25
      */
     public function up()
     {
